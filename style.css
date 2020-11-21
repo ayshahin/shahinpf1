@@ -1,0 +1,176 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
+
+
+.bg-color{
+    background-color: rgb(214, 63, 63);
+}
+
+.circle{
+    font-size: 30px;
+    height: 50px;
+    width: 50px;
+    border-radius:50%;
+    background-color: silver;
+    display: inline-block;
+    color: red;
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 5px;
+}
+
+.border-c{
+    border-color: lightcyan;
+}
+.name{
+    font-size: 38px;
+    text-shadow: black 2px 2px;
+}
+
+.img-s{
+    height: 180px;
+    width: 180px;
+    border-radius: 10%;
+    margin-left: 0px;
+}
+
+.myicon{
+    color: brown;
+}
+
+.navbar{
+    background-color: #7a2121;
+   
+}
+.navstyle{
+    height: 30px;
+    margin-left: 110px;
+}
+button:hover{
+    background-color: indianred;
+
+}
+
+.about{
+    background-color: rgb(139, 128, 202);
+    height: auto;
+}
+.aboutH{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 10px;
+    background-color: rgb(86, 71, 172) ;
+}
+.quato{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 90px;
+    color: yellow
+}
+
+.shahinq{
+    padding-left: 120px;
+    color: rgb(18, 18, 107);
+}
+.about-image{
+ border-radius: 50%;
+ margin-top: 30px;
+
+ 
+}
+.expert_img{
+    height: 200px;
+    width: 250px;
+    margin-left: 8px;
+    border-radius: 5%;
+}
+
+.exp-col-3{
+    margin-bottom: 110px;
+    border-radius: 5%;
+    background-color: #6C757D;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.exp-bg{
+    background-color: rgb(139, 128, 202);
+    border-top: 30px solid rgb(81, 38, 151);
+}
+.expert-text{
+    text-align: justify;
+    font-size: 20px;
+    color: yellow;
+    line-height: 25px;
+    padding: 15px;
+}
+.pele{
+    padding-left: 180px;
+    color: rgb(18, 18, 107);
+    
+}
+.educationH{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 10px;
+    background-color: rgb(86, 71, 172) ;
+}
+
+/* This is education section  */
+
+.edu-sec{
+    background-color: rgb(139, 128, 202);
+    border-top: 30px solid rgb(81, 38, 151);
+}
+.edu-img{
+    margin-top: 75px;
+    border-radius: 5%;
+    margin-bottom: 45px;
+    height: 200px;
+    width: 250px;
+}
+.qutoe-edu{
+    margin-bottom: 45px;
+    margin-top: 75px;
+    border-radius: 5%;
+    background-color: #6C757D;
+    padding: 20px;
+   
+
+}
+
+.mandela{
+    color: rgb(18, 18, 107);
+    font-weight: bolder;
+    padding-left: 80px;
+    font-size: 20px;
+
+}
+
+.eduH{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: rgb(86, 71, 172) ;
+    margin-top: 25px;
+}
+.degree{
+    color: green;
+    font-size: 22 px;
+    font-weight: bolder;
+    padding-left: 10px;
+}
+
+.institute{
+    padding-left: 40px;
+}
+.line{
+
+}
